@@ -1,64 +1,111 @@
 
 # Frontend Projects — Blogger Templates
 
-A collection of website templates designed and developed using
-**HTML, CSS, and JavaScript** for different niches, including
-education, construction, portfolios, digital agencies, and business.
+A collection of Blogger templates designed and developed using **HTML, CSS, and JavaScript** for education, construction, portfolios, digital agencies, and business websites.
 
-These projects demonstrate my frontend development skills,
-UI design, responsive layouts, and website customization.
+Explore the screenshots and visit the live demos to see each design in action.
 
-## Projects
+---
 
-### 1. Esphere — Educational Blogger Template
+## 1. Esphere — Educational Blogger Template
+
+![Esphere Blogger Template](./Esphere.png)
+
 An education-focused template for learning resources and educational content.
 
-- **Live Demo:** https://esphere-websitedevelopers.blogspot.com/
+- **Category:** Education
 - **Technologies:** HTML, CSS, JavaScript
-- **Preview:** `Esphere.png`
+- **Live Demo:** [View Esphere](https://esphere-websitedevelopers.blogspot.com/)
 
-### 2. Wow Construct — Construction Company Template
-A business website design for showcasing construction services and projects.
+---
 
-- **Live Demo:** https://wowconstruct-websitedevelopers.blogspot.com/
+## 2. Wow Construct — Construction Company Template
+
+![Wow Construct Blogger Template](./wowconstruct.png)
+
+A construction-company website design for showcasing services, projects, and company information.
+
+- **Category:** Construction / Business
 - **Technologies:** HTML, CSS, JavaScript
+- **Live Demo:** [View Wow Construct](https://wowconstruct-websitedevelopers.blogspot.com/)
 
-### 3. iPortfolio — Multipurpose Blogger Template
-A multipurpose design for portfolio websites, blogs, and educational content.
+---
 
-- **Live Demo:** https://iportfolio-website-developers.blogspot.com/
+## 3. iPortfolio — Multipurpose Blogger Template
+
+![iPortfolio Blogger Template](./iportfolio.png)
+
+A multipurpose design for portfolio websites, blogs, and education-related content.
+
+- **Category:** Portfolio / Blog / Education
 - **Technologies:** HTML, CSS, JavaScript
+- **Live Demo:** [View iPortfolio](https://iportfolio-website-developers.blogspot.com/)
 
-### 4. Learnify — Education Blogger Template
-An education-focused design for presenting learning resources and tutorials.
+---
 
-- **Live Demo:** https://blogbuildersofficial.blogspot.com/
+## 4. Learnify — Education Blogger Template
+
+![Learnify Blogger Template](./learnify.png)
+
+An education-oriented design for presenting learning resources, study materials, and tutorials.
+
+- **Category:** Education
 - **Technologies:** HTML, CSS, JavaScript
+- **Live Demo:** [View Learnify](https://blogbuildersofficial.blogspot.com/)
 
-### 5. Web Business — Digital Agency Template
-A professional website concept for digital marketing agencies and businesses.
+---
 
-- **Live Demo:** https://websitedeveloperstheme.blogspot.com/
+## 5. Web Business — Digital Agency Blogger Template
+
+![Web Business Blogger Template](./web-business.png)
+
+A professional website design for digital agencies, marketing services, and business presentations.
+
+- **Category:** Digital Agency / Marketing
 - **Technologies:** HTML, CSS, JavaScript
+- **Live Demo:** [View Web Business](https://websitedeveloperstheme.blogspot.com/)
 
-### 6. Glow UI — Education Blogger Template
-A modern education website design featuring a dark-and-light-mode concept.
+---
 
-- **Live Demo:** https://glowui-websitedevelopers.blogspot.com/
+## 6. Glow UI — Education Blogger Template
+
+![Glow UI Blogger Template](./glow-ui.png)
+
+A modern education template featuring a dark-and-light-mode design concept.
+
+- **Category:** Education
 - **Technologies:** HTML, CSS, JavaScript
-- **Preview:** `esphederdark.png`
+- **Live Demo:** [View Glow UI](https://glowui-websitedevelopers.blogspot.com/)
 
-### 7. Edupedia — Education Blogger Template
-An education template for tutorials, learning resources, and educational articles.
+### Dark Mode Preview
 
-- **Live Demo:** https://edupediabloggertheme.blogspot.com/
+![Glow UI Dark Preview](./esphederdark.png)
+
+---
+
+## 7. Edupedia — Education Blogger Template
+
+![Edupedia Blogger Template](./edupedia.png)
+
+An education template designed for learning resources, tutorials, and educational articles.
+
+- **Category:** Education / Tutorials
 - **Technologies:** HTML, CSS, JavaScript
+- **Live Demo:** [View Edupedia](https://edupediabloggertheme.blogspot.com/)
 
-### 8. Pro Business — Business Blogger Template
-A professional business website design for presenting services and company information.
+---
 
-- **Live Demo:** https://wowstudy-websitedevelopers.blogspot.com/
+## 8. Pro Business — Business Blogger Template
+
+![Pro Business Blogger Template](./pro-business.png)
+
+A business-oriented template for presenting company information, services, and professional content.
+
+- **Category:** Business
 - **Technologies:** HTML, CSS, JavaScript
+- **Live Demo:** [View Pro Business](https://wowstudy-websitedevelopers.blogspot.com/)
+
+---
 
 ## Skills Demonstrated
 
@@ -66,19 +113,18 @@ A professional business website design for presenting services and company infor
 - CSS3 and responsive layouts
 - JavaScript and interactive UI elements
 - Frontend design and website customization
-- Theme design for different website categories
+- Blogger template development for different niches
 
 ## Source Code
 
-The source code is not included in this repository.
-This repository is intended to showcase the projects through
-their live demos and screenshots.
+The template source code is not included in this repository. This repository showcases the projects through screenshots and live demos.
 
 ## Marketplace
 
-Visit **[TheCodeBazaar](https://www.thecodebazaar.com/)**
-to explore the marketplace and its Blogger themes.
+Explore more Blogger themes and templates at **[TheCodeBazaar](https://www.thecodebazaar.com/)**.
+
+For purchasing, licensing, or usage terms, please visit the marketplace.
 
 ---
 
-**Built by:** TheCodeBazaar
+**Built by TheCodeBazaar**
