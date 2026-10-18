@@ -21,7 +21,7 @@ An education-focused template for learning resources and educational content.
 
 ## 2. Wow Construct — Construction Company Template
 
-![Wow Construct Blogger Template](./wowconstruct.png)
+![Wow Construct Blogger Template](./wconstruction-website.jxl)
 
 A construction-company website design for showcasing services, projects, and company information.
 
@@ -33,7 +33,7 @@ A construction-company website design for showcasing services, projects, and com
 
 ## 3. iPortfolio — Multipurpose Blogger Template
 
-![iPortfolio Blogger Template](./iportfolio.png)
+![iPortfolio Blogger Template](./iportfolio-blogger-template.jxl)
 
 A multipurpose design for portfolio websites, blogs, and education-related content.
 
@@ -45,7 +45,7 @@ A multipurpose design for portfolio websites, blogs, and education-related conte
 
 ## 4. Learnify — Education Blogger Template
 
-![Learnify Blogger Template](./learnify.png)
+![Learnify Blogger Template](./Learnify Blogger Template.jxl)
 
 An education-oriented design for presenting learning resources, study materials, and tutorials.
 
@@ -57,7 +57,7 @@ An education-oriented design for presenting learning resources, study materials,
 
 ## 5. Web Business — Digital Agency Blogger Template
 
-![Web Business Blogger Template](./web-business.png)
+![Web Business Blogger Template](./web-business-blogger-template.jxl)
 
 A professional website design for digital agencies, marketing services, and business presentations.
 
@@ -69,7 +69,7 @@ A professional website design for digital agencies, marketing services, and busi
 
 ## 6. Glow UI — Education Blogger Template
 
-![Glow UI Blogger Template](./glow-ui.png)
+![Glow UI Blogger Template](./glow-ui-blogger-template.jxl)
 
 A modern education template featuring a dark-and-light-mode design concept.
 
@@ -85,7 +85,7 @@ A modern education template featuring a dark-and-light-mode design concept.
 
 ## 7. Edupedia — Education Blogger Template
 
-![Edupedia Blogger Template](./edupedia.png)
+![Edupedia Blogger Template](./edupedia-blogger-template.jxl)
 
 An education template designed for learning resources, tutorials, and educational articles.
 
@@ -97,7 +97,7 @@ An education template designed for learning resources, tutorials, and educationa
 
 ## 8. Pro Business — Business Blogger Template
 
-![Pro Business Blogger Template](./pro-business.png)
+![Pro Business Blogger Template](./pro-business-blogger-template.jxl)
 
 A business-oriented template for presenting company information, services, and professional content.
 
